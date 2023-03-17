@@ -1,2 +1,2 @@
-# funcionesenpython
-uso de funciones en python
+# funciones en python
+ejercicios con uso de funciones en python
